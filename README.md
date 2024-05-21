@@ -1,4 +1,5 @@
-![Firefly imagem sem fundo escrito welcome com fonte pixelada 34740](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/f3d0f025-c55e-4da9-bbcf-2c0ac573f5c2)
+![Uploading pngwing.com.png…]()
+
 
 
 - 👋 Hi, I’m @LucasFreitas1307
