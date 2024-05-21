@@ -1,6 +1,8 @@
-![Sem título](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/c22d302c-e658-4b66-8086-c5bb1fd75776)
+![Firefly imagem sem fundo escrito welcome com fonte pixelada 34740](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/f3d0f025-c55e-4da9-bbcf-2c0ac573f5c2)
+
 
 - 👋 Hi, I’m @LucasFreitas1307
+
 - 👀 I’m interested in AI studies and learn new programming languages
 - 🌱 I’m currently learning C/Python in Computer Science graduation 
 - 📫 Reach me on lucasfreitasfoco@gmail.com
