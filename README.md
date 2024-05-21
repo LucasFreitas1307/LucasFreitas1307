@@ -8,7 +8,7 @@
 - 📫 Reach me on lucasfreitasfoco@gmail.com
 - ⚡ Fun fact: I´m really like to play online snooker
 
-<img src="https://www.clipartmax.com/png/small/260-2601129_interaction-design-user-experience-user-experience-icon.png" alt="Interaction Design User Experience - User Experience Icon @clipartmax.com">
+
 
 
 
