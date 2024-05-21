@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning C/Python in Computer Science graduation 
 - 📫 Reach me on lucasfreitasfoco@gmail.com
 - ⚡ Fun fact: I´m really like to play online snooker
+- ➡️ https://www.linkedin.com/in/lucas-damacena-freitas-847012284/
+
 
 
 
