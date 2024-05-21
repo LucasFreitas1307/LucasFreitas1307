@@ -1,6 +1,6 @@
 ![pngwing com](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/98ae2f41-b48c-48ac-9216-05730cb488d7)
 
-## Welcome im Lucas Freitas and i current studing Computer science on UFJ-Brazil
+## Welcome i'm Lucas Freitas and i current studing Computer science on UFJ-Brazil
 
 - 👋 Hi, I’m @LucasFreitas1307
 - 👀 I’m interested in AI studies and learn new programming languages
@@ -8,6 +8,7 @@
 - 📫 Reach me on lucasfreitasfoco@gmail.com
 - ⚡ Fun fact: I´m really like to play online snooker
 
+<img src="https://www.clipartmax.com/png/small/260-2601129_interaction-design-user-experience-user-experience-icon.png" alt="Interaction Design User Experience - User Experience Icon @clipartmax.com">
 
 
 
