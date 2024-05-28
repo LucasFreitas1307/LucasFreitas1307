@@ -2,12 +2,17 @@
 
 ## Welcome i'm Lucas Freitas and i'm current studing Computer science on UFJ-Brazil
 
-- 👋 Hi, I’m @LucasFreitas1307
-- 👀 I’m interested in AI studies and learn new programming languages
-- 🌱 I’m currently learning C/Python in Computer Science graduation 
-- 📫 Reach me on lucasfreitasfoco@gmail.com
-- ⚡ Fun fact: I´m really like to play online snooker
-- ➡️ https://www.linkedin.com/in/lucas-damacena-freitas-847012284/
+* 👋 Hi, I’m @LucasFreitas1307
+* 👀 I’m interested in AI studies and learn new programming languages
+* 🌱 I’m currently learning C/Python in Computer Science graduation 
+* 📫 Reach me on lucasfreitasfoco@gmail.com
+* ⚡ Fun fact: I´m really like to play online snooker
+* ➡️ [linkedin](https://www.linkedin.com/in/lucas-damacena-freitas-847012284/)
+* ➡️ [instagram](https://www.instagram.com/lucasfreitas.dm/)
+
+## Projects
+* [AP1 projects](https://github.com/LucasFreitas1307/AP1-projects-)
+* [Web Dev projects](https://github.com/LucasFreitas1307/WebDev)
 
 
 
