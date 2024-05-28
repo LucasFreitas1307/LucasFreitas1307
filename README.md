@@ -1,6 +1,35 @@
 
 ![ZS3t](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/1e4acbbb-28a7-48da-a6db-d2fa0a365d26)
 
+<img src="https://raw.githubusercontent.com/LucasFreitas1307/LucasFreitas1307/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasFreitas1307&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasFreitas1307&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucas-damacena-freitas-847012284/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/lucasfreitas.dm/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="lucasfreitasfoco@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
 ## Welcome i'm Lucas Freitas and i'm current studing Computer science on UFJ-Brazil
 
@@ -24,15 +53,7 @@
   * Currently, I'm studying new languages with a focus on web languages like C# and JS, but I also have an interest in machine learning and neural networks.
   * [JS projects](https://github.com/LucasFreitas1307/JS-projects)
   * [C#](https://github.com/LucasFreitas1307/C-projects)
-
-
-
-
-
-
-
-
-
+ 
 
 
 
