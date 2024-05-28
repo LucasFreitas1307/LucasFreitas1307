@@ -1,7 +1,8 @@
 
 ![ZS3t](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/1e4acbbb-28a7-48da-a6db-d2fa0a365d26)
 
-<img src="https://raw.githubusercontent.com/LucasFreitas1307/LucasFreitas1307/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
 
@@ -53,7 +54,8 @@
   * Currently, I'm studying new languages with a focus on web languages like C# and JS, but I also have an interest in machine learning and neural networks.
   * [JS projects](https://github.com/LucasFreitas1307/JS-projects)
   * [C#](https://github.com/LucasFreitas1307/C-projects)
- 
+
+ ![3gXp](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/2575b059-d0ac-4aff-af66-ef153286488e)
 
 
 
