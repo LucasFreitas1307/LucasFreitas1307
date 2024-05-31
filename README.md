@@ -47,6 +47,7 @@
 
 * [AP1 projects](https://github.com/LucasFreitas1307/AP1-projects-)
 * [Web Dev projects](https://github.com/LucasFreitas1307/WebDev)
+* [Python Projects](https://github.com/LucasFreitas1307/pythonPJS)
 
   ## Studies Topics
   ![XOsX](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/931079ed-0bee-4f1e-a11b-b47475009cc6)
