@@ -44,20 +44,23 @@
 * ➡️ [instagram](https://www.instagram.com/lucasfreitas.dm/)
 
 ## Projects
-![8qG](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/55f50de5-2a70-482e-9c0d-633aa9b2b517)
+![Projects-04-06-2024](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/3435fdad-2ab6-47ad-b806-cbb177e3c838)
+
 
 * [AP1 projects](https://github.com/LucasFreitas1307/AP1-projects-)
 * [Web Dev projects](https://github.com/LucasFreitas1307/WebDev)
 * [Python Projects](https://github.com/LucasFreitas1307/pythonPJS)
 
   ## Studies Topics
-  ![XOsX](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/931079ed-0bee-4f1e-a11b-b47475009cc6)
+![Studies-Topics-04-06-2024](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/77f42edd-dbb1-4e06-aa0f-774ac8f2157e)
+
 
   * Currently, I'm studying new languages with a focus on web languages like C# and JS, but I also have an interest in machine learning and neural networks.
   * [JS projects](https://github.com/LucasFreitas1307/JS-projects)
   * [C#](https://github.com/LucasFreitas1307/C-projects)
 
- ![3gXp](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/2575b059-d0ac-4aff-af66-ef153286488e)
+  ![XOsX](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/931079ed-0bee-4f1e-a11b-b47475009cc6)
+
 
 
 
