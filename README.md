@@ -1,5 +1,6 @@
 
-![ZS3t](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/1e4acbbb-28a7-48da-a6db-d2fa0a365d26)
+![Welcome-04-06-2024](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/f4ebe477-9624-4abb-993e-b950af772ce4)
+
 
 
 
