@@ -44,7 +44,8 @@
 * ➡️ [instagram](https://www.instagram.com/lucasfreitas.dm/)
 
 ## Projects
-![Projects-04-06-2024](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/3435fdad-2ab6-47ad-b806-cbb177e3c838)
+![giphy (3)](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/8efdb226-8d68-4b41-8703-bee8b71f10a8)
+
 
 
 * [AP1 projects](https://github.com/LucasFreitas1307/AP1-projects-)
@@ -52,7 +53,9 @@
 * [Python Projects](https://github.com/LucasFreitas1307/pythonPJS)
 
   ## Studies Topics
-![Studies-Topics-04-06-2024](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/77f42edd-dbb1-4e06-aa0f-774ac8f2157e)
+![giphy (1)](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/f2b1620a-2a68-4e10-94b3-aa34296f96d8)
+
+
 
 
   * Currently, I'm studying new languages with a focus on web languages like C# and JS, but I also have an interest in machine learning and neural networks.
