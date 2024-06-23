@@ -1,5 +1,8 @@
+###
+<div align="center">
+<img src= "https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/b68a5c33-c503-47b1-9456-dcd13871fc2e"
 
-![Welcome-04-06-2024](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/f4ebe477-9624-4abb-993e-b950af772ce4)
+
 
 
 
@@ -44,7 +47,8 @@
 * ➡️ [instagram](https://www.instagram.com/lucasfreitas.dm/)
 
 ## Projects
-![giphy (3)](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/8efdb226-8d68-4b41-8703-bee8b71f10a8)
+![giphy-3--unscreen](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/45d05764-a2fa-4a27-ba84-2ddacfb94eba)
+
 
 
 
@@ -53,7 +57,8 @@
 * [Python Projects](https://github.com/LucasFreitas1307/pythonPJS)
 
   ## Studies Topics
-![giphy (1)](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/f2b1620a-2a68-4e10-94b3-aa34296f96d8)
+![giphy-1--unscreen](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/123ee300-f2d3-4f52-8ab5-38240968e400)
+
 
 
 
