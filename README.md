@@ -70,7 +70,7 @@
 
 
 
-<img src="https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/931079ed-0bee-4f1e-a11b-b47475009cc6" alt="Pato" width="500" height="300">
+<img src="https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/931079ed-0bee-4f1e-a11b-b47475009cc6" alt="Pato" width="150" height="130">
 
 
 
