@@ -67,9 +67,10 @@
   * [JS projects](https://github.com/LucasFreitas1307/JS-projects)
   * [C#](https://github.com/LucasFreitas1307/C-projects)
 
-  ![XOsX](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/931079ed-0bee-4f1e-a11b-b47475009cc6)
 
 
+
+<img src="https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/931079ed-0bee-4f1e-a11b-b47475009cc6" alt="Pato" width="500" height="300">
 
 
 
