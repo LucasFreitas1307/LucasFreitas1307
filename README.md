@@ -73,6 +73,9 @@
 <img src="https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/931079ed-0bee-4f1e-a11b-b47475009cc6" alt="Pato" width="150" height="130">
 
 
+<img src="https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/8a8c3db5-473f-477c-a31c-72aaf2d06b2b" alt="degrade" width="6000000000000" height="70">
+
+
 
 
 
