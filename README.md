@@ -46,6 +46,16 @@
 * ➡️ [linkedin](https://www.linkedin.com/in/lucas-damacena-freitas-847012284/)
 * ➡️ [instagram](https://www.instagram.com/lucasfreitas.dm/)
 
+## Tecnologies
+<img src="https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/2de3365f-9647-4aee-a091-6e5fd5bceeb8" alt="CIcon" width="45" height="45">
+<img src="https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/41bf029e-7001-4b52-ac4d-cb03776a06c7" alt="CIcon" width="45" height="45">
+<img src="https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/2ed3e024-0909-4133-935a-ae4d493451b3" alt="CIcon" width="45" height="45">
+
+
+
+
+
+
 ## Projects
 ![giphy-3--unscreen](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/45d05764-a2fa-4a27-ba84-2ddacfb94eba)
 
