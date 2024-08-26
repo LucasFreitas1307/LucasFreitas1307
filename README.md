@@ -63,6 +63,7 @@
 
 
 * [AP1 projects](https://github.com/LucasFreitas1307/AP1-projects-)
+* [AP2 projects](https://github.com/LucasFreitas1307/AP2)
 * [Web Dev projects](https://github.com/LucasFreitas1307/WebDev)
 * [Python Projects](https://github.com/LucasFreitas1307/pythonPJS)
 
