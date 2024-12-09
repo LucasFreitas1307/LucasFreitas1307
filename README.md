@@ -67,7 +67,7 @@
 * [Web Dev projects](https://github.com/LucasFreitas1307/WebDev)
 * [Python Projects](https://github.com/LucasFreitas1307/pythonPJS)
 * [Java Projects](https://github.com/LucasFreitas1307/Java)
-* [AP2 Final project](https://github.com/LucasFreitas1307/AP2-Final-project)
+* [CyberCow Project](https://github.com/LucasFreitas1307/AP2-Final-project)
 
   ## Studies Topics
 ![giphy-1--unscreen](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/123ee300-f2d3-4f52-8ab5-38240968e400)
