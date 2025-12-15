@@ -57,7 +57,7 @@
 
 
 
-<img src="538-5380039_logo-java-clipart-png-download-java-circle-icon](https://github.com/user-attachments/assets/8107f01c-cba8-4490-841f-48d8ac4a0014" alt="Java" width="45" height="45">
+<img src="https://github.com/user-attachments/assets/8107f01c-cba8-4490-841f-48d8ac4a0014" alt="Java" width="45" height="45">
 
 
 ## Projects
