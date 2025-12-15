@@ -49,14 +49,15 @@
 ## Skills/Improving skills
 <img src="https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/2de3365f-9647-4aee-a091-6e5fd5bceeb8" alt="CIcon" width="45" height="45">
 <img src="https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/41bf029e-7001-4b52-ac4d-cb03776a06c7" alt="CIcon" width="45" height="45">
-<img src="https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/2ed3e024-0909-4133-935a-ae4d493451b3" alt="CIcon" width="45" height="45">]
+<img src="https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/2ed3e024-0909-4133-935a-ae4d493451b3" alt="CIcon" width="45" height="45">
+<img src="https://github.com/user-attachments/assets/7965f05a-664d-4263-b0d1-619c93d1ef1a" alt="ruby" width="45" height="45">
 
 
 
 
 
 
-<img src="538-5380039_logo-java-clipart-png-download-java-circle-icon](https://github.com/user-attachments/assets/8107f01c-cba8-4490-841f-48d8ac4a0014" alt="Java" width="45" height="45">]
+<img src="538-5380039_logo-java-clipart-png-download-java-circle-icon](https://github.com/user-attachments/assets/8107f01c-cba8-4490-841f-48d8ac4a0014" alt="Java" width="45" height="45">
 
 
 ## Projects
