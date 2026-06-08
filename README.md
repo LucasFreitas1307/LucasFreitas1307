@@ -38,6 +38,8 @@
   </a>
 </div>
 
+<div align="left">
+
 * 👋 Hi, I’m @LucasFreitas1307 and i'm current studing Computer science on UFJ-Brazil
 * 👀 I’m interested in AI studies and learn new programming languages
 * 🌱 I'm currently learning the C in my computer science degree, and also studying C# and JS on my own.
@@ -45,6 +47,8 @@
 * ⚡ Fun fact: I´m really like to play online snooker
 * ➡️ [linkedin](https://www.linkedin.com/in/lucas-damacena-freitas-847012284/)
 * ➡️ [instagram](https://www.instagram.com/lucasfreitas.dm/)
+
+  </div>
 
 ## Skills/Improving skills
 <img src="https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/2de3365f-9647-4aee-a091-6e5fd5bceeb8" alt="CIcon" width="45" height="45">
@@ -64,7 +68,7 @@
 ![giphy-3--unscreen](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/45d05764-a2fa-4a27-ba84-2ddacfb94eba)
 
 
-
+<div align="left">
 
 * [AP1 projects](https://github.com/LucasFreitas1307/AP1-projects-)
 * [AP2 projects](https://github.com/LucasFreitas1307/AP2)
@@ -74,6 +78,8 @@
 * [CyberCow app for management](https://github.com/LucasFreitas1307/AP2-Final-project)
 * [CyberCow Game (Ruby)](https://github.com/Cows-In-Space/Cows-In-Space)
 
+  </div>
+
   ## Studies Topics
 ![giphy-1--unscreen](https://github.com/LucasFreitas1307/LucasFreitas1307/assets/167094976/123ee300-f2d3-4f52-8ab5-38240968e400)
 
@@ -82,8 +88,10 @@
 
 
   * Currently, I'm studying new languages with a focus on web languages like C# and JS, but I also have an interest in machine learning and neural networks.
-  * [JS projects](https://github.com/LucasFreitas1307/JS-projects)
-  * [C#](https://github.com/LucasFreitas1307/C-projects)
+  *  [JS projects](https://github.com/LucasFreitas1307/JS-projects)
+  *  [C#](https://github.com/LucasFreitas1307/C-projects)
+
+
 
 
 
