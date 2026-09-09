@@ -40,7 +40,7 @@
 
 <div align="left">
 
-* 👋 Hi, I’m @LucasFreitas1307 and i'm current studing Computer science on UFJ-Brazil
+* 👋 Hi, I’m @LucasFreitas1307 and i'm current studing Computer science on UFG-Brazil
 * 👀 I’m interested in AI studies and learn new programming languages
 * 🌱 I'm currently learning the C in my computer science degree, and also studying C# and JS on my own.
 * 📫 Reach me on lucasfreitasfoco@gmail.com
